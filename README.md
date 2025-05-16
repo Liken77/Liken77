@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Liken77
-- 👀 I’m interested in coffe
-- 📫 How to reach me Brazil
-
+Ola me chamo Pedro Henrique Andrade
+programador Junior em aprendizagem
