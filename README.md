@@ -1,11 +1,11 @@
 <h1 align="center">Pedro Henrique Andrade</h1>
 
 <p align="center">
-  Desenvolvedor Júnior • Análise e Desenvolvimento de Sistemas — IFRS Erechim
+  Desenvolvedor Back-end Júnior • Java & Spring Boot • ADS no IFRS Erechim
 </p>
 
 <p align="center">
-  Construindo aplicações back-end, APIs REST e sistemas web com foco em código organizado, banco de dados e evolução constante.
+  Transformo estudos em projetos funcionais, com atenção à organização do código, banco de dados, testes e documentação.
 </p>
 
 ---
@@ -14,9 +14,33 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas no IFRS Erechim** e desenvolvedor júnior em formação.
 
-Atualmente concentro meus estudos e projetos principalmente em **Java, Spring Boot, APIs REST e bancos de dados**, mantendo também experiência prática com desenvolvimento web utilizando **PHP, JavaScript, HTML e CSS**.
+Meu foco atual está em **Java, Spring Boot, APIs REST e bancos de dados relacionais**. Também desenvolvo aplicações web com **PHP, JavaScript, HTML e CSS**, o que me deu experiência prática com o fluxo completo entre interface, regras da aplicação e persistência.
 
-Gosto de transformar o conteúdo estudado em projetos funcionais, evoluindo desde aplicações web e modelagem de banco de dados até APIs com arquitetura em camadas, testes automatizados e integrações com IA.
+Procuro evoluir projetos antigos em vez de apenas escondê-los: reviso modelagem, separo responsabilidades, adiciono validações, testes e documentação para deixar claro o que aprendi em cada etapa.
+
+## Projetos em destaque
+
+### [FinVoice — Assistente Financeiro por Voz](https://github.com/Liken77/finvoice-ai)
+
+Evolução do desafio de Spring AI da DIO, desenvolvida com **Java, Spring Boot e Spring AI**. A aplicação registra, consulta e resume transações por REST ou comandos de voz, usando MySQL, Docker, testes automatizados e integração contínua.
+
+**O que evoluí:** resumo financeiro por categoria, validações de domínio e upload, tratamento padronizado de erros, correção da unidade monetária e separação entre testes locais e integrações com a OpenAI.
+
+### [OrderFlow — Design Patterns com Java](https://github.com/Liken77/orderflow-design-patterns)
+
+Aplicação Java autoral que simula a finalização de pedidos e demonstra **Singleton, Strategy e Facade** em um problema concreto. Possui Gradle Wrapper, testes com JUnit e workflow no GitHub Actions.
+
+**O que demonstra:** baixo acoplamento, troca de comportamento sem `if-else` crescente, validação de entrada e uso de `BigDecimal` para valores monetários.
+
+### [StockFlow — Gerenciador de Produtos em PHP](https://github.com/Liken77/Trabalho-Front-end-Web-php-Js-Css-)
+
+CRUD acadêmico evoluído para uma aplicação organizada com **PHP 8, MySQL, HTML, CSS, JavaScript e Docker**. Permite cadastrar, pesquisar, editar e excluir produtos em uma interface responsiva.
+
+**O que evoluí:** estrutura `public/` e `src/`, prepared statements, proteção CSRF, validação no servidor, configuração por ambiente e execução reproduzível com Docker Compose.
+
+## Outros projetos
+
+- [Sistema de Biblioteca — Banco de Dados MySQL](https://github.com/Liken77/Banco-de-Dados-Projeto): modelagem relacional, relacionamentos N:N, integridade referencial, dados de demonstração e consultas com `JOIN`, agregações e `GROUP BY`.
 
 ## Tecnologias
 
@@ -33,18 +57,11 @@ Gosto de transformar o conteúdo estudado em projetos funcionais, evoluindo desd
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## Projetos em destaque
+## Objetivo profissional
 
-### [FinVoice — Assistente Financeiro Inteligente](https://github.com/Liken77/finvoice-ai)
-API financeira desenvolvida com **Java, Spring Boot e Spring AI**, capaz de registrar, consultar e resumir transações por REST e comandos de voz. O projeto utiliza arquitetura em camadas, MySQL, Docker, testes automatizados e integração contínua.
-
-### [Sistema Web com PHP](https://github.com/Liken77/Trabalho-Front-end-Web-php-Js-Css-)
-Aplicação web acadêmica com **PHP, MySQL, JavaScript, HTML e CSS**, implementando operações de cadastro, consulta, edição e exclusão de dados.
-
-### [Sistema de Biblioteca — Banco de Dados](https://github.com/Liken77/Banco-de-Dados-Projeto)
-Projeto acadêmico voltado à **modelagem e implementação de banco de dados relacional**, com entidades, relacionamentos, chaves estrangeiras e operações SQL para um sistema de biblioteca.
-
+Busco oportunidades de **estágio ou desenvolvimento júnior**, principalmente em back-end Java, nas quais eu possa contribuir com projetos reais e continuar evoluindo com boas práticas de engenharia de software.
 
 <p align="center">
-  <strong>GitHub:</strong> <a href="https://github.com/Liken77">@Liken77</a>
+  <a href="https://github.com/Liken77">github.com/Liken77</a>
 </p>
+
