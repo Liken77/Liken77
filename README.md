@@ -44,15 +44,6 @@ Aplicação web acadêmica com **PHP, MySQL, JavaScript, HTML e CSS**, implement
 ### [Sistema de Biblioteca — Banco de Dados](https://github.com/Liken77/Banco-de-Dados-Projeto)
 Projeto acadêmico voltado à **modelagem e implementação de banco de dados relacional**, com entidades, relacionamentos, chaves estrangeiras e operações SQL para um sistema de biblioteca.
 
-## Atualmente estudando
-
-- Java e Programação Orientada a Objetos
-- Spring Boot e desenvolvimento de APIs REST
-- Arquitetura e padrões de projeto
-- Banco de dados relacional e SQL
-- Testes automatizados e boas práticas de desenvolvimento
-
----
 
 <p align="center">
   <strong>GitHub:</strong> <a href="https://github.com/Liken77">@Liken77</a>
